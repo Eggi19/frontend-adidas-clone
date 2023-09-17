@@ -80,7 +80,7 @@ export default function Navbar() {
                     </Link>
                 </div>
             </div>
-            <Link to='/'>
+            <Link to='/frontend-adidas-clone/'>
                 <img className='w-20 absolute top-1 left-16' src="https://www.adidas.co.id/media/logo/adidas-logo.png" alt="" />
             </Link>
             <hr />
